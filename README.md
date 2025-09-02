@@ -32,7 +32,9 @@
 ### Time/Space (high level)
 - Binary Tree: traversal O(n), space O(n)  
 - Binary Search Tree (balanced): search/insert/delete O(log n), space O(n)  
-- BST (unbalanced): worst-case O(n)  
+- BST (unbalanced): worst-case O(n)
+- **Traversals**: all traversals visit each node once → O(n) time, O(n) space for recursive stack or list
+
 
 
 ## Day 4 implemented:
