@@ -71,7 +71,7 @@ Each day covers specific topics, from basic arrays and lists to advanced structu
 - All implementations are in **Java**.  
 - Tests are provided using **JUnit 5** for each data structure.  
 - Day-based packages in `src/main/java/ds/`:  
-  - `arrays`, `linkedlists`, `stacks`, `queues`, `trees`, `advancedstructures`  
+  - `arrays`, `linkedlists`, `stacks`, `queues`, `trees`, `advancedstructures`,`nonlinear`  
 - The repository contains **organized folders, readable code, and comments** for easy understanding.  
 - The README includes **high-level complexity analysis** and a summary of all implementations.
 
