@@ -33,3 +33,14 @@
 - Binary Tree: traversal O(n), space O(n)  
 - Binary Search Tree (balanced): search/insert/delete O(log n), space O(n)  
 - BST (unbalanced): worst-case O(n)  
+
+
+## Day 4 implemented:
+- Hash Table
+- Min Heap
+- Graph (Adjacency List)
+
+### Time/Space (high level)
+- **Hash Table (chaining)**: put/get/remove O(1) average, O(n) worst case, space O(n)
+- **Min Heap**: insert/extractMin O(log n), peek O(1), space O(n)
+- **Graph (adjacency list)**: addVertex/addEdge O(1), neighbors O(1), traversal (BFS/DFS) O(V+E), space O(V+E)
