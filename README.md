@@ -22,3 +22,14 @@
 - **Queue (linked list)**: enqueue/dequeue/peek O(1), space O(n)
 - **Doubly Linked List**: add/remove at head/tail O(1), search/get O(n), space O(n)
 - **Circular Linked List**: add/remove O(1), traversal O(n), space O(n)
+
+
+## Day 3 implemented:
+- Binary Tree
+- Binary Search Tree
+- Tree Traversal (inorder, preorder, postorder)
+
+### Time/Space (high level)
+- Binary Tree: traversal O(n), space O(n)  
+- Binary Search Tree (balanced): search/insert/delete O(log n), space O(n)  
+- BST (unbalanced): worst-case O(n)  
